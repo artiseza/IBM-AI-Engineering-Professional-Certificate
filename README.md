@@ -1,1 +1,1 @@
-# coursera-capstone-project
+# The best classifier
